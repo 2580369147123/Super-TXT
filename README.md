@@ -15,4 +15,5 @@ Super TXT (STXT) is a novel, lightweight format that aims to provide an extremel
 - 📊 **Structured Data**: Create tables with defined properties.
 
 ## Quick Start
-A valid STXT file must start with a declaration:
+A valid STXT file must start with a declaration:以下内容采用中文
+
